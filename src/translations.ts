@@ -1717,7 +1717,7 @@ export const settings = {
     nip05: {
       label: {
         id: 'pages.settings.profile.nip05.label',
-        defaultMessage: 'Verified Nostr Address (NIP-05)',
+        defaultMessage: 'Verified Nostr Address (NIP-05)...',
         description: 'Label for nip-05 input on edit profile page',
       },
       placeholder : {
